@@ -57,7 +57,7 @@ module.exports = {
         test: /\.(jpe?g|jpg|png|gif|woff|woff2|eot|ttf|pdf|svg|mp4)(\?[a-z0-9=.]+)?$/,
         loader: 'file-loader',
         options: {
-          outputPath: 'Assets/Images',
+          outputPath: 'assets/images',
           name: '[contenthash].[ext]',
         },
       },

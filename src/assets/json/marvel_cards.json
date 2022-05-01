@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "BLACK WIDOW",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/ECC75D458152A9681015ECFA57788FD62ADEAF17A9A6197354BE91357D22D594/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "2",
+    "name": "MOON KNIGHT",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0D32EFF3766865DDC2292C7A0A77E28DBAC7A1645877899FE5B0F5B5E64B6EBD/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "3",
+    "name": "ROCKET RACCOON",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C425F07DF5B027A7F0DEB9DE1B9AF2949F096D8EE41D9CFC8E4BBF0F21C487C6/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "4",
+    "name": "LOKI",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/4105F4FE723FDB4403CB0B4A679AE2945861849935BA40E296F5D10EE65B2615/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "5",
+    "name": "SCARLET WITCH",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/728158A5F7954C71BFC25438648044EB0912ADF8B9055CCE82EB64BFDB6DA9B3/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "6",
+    "name": "THANOS",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9FA1C7C4168D777DD75DD4035DBAB94CD7FDA698A74A83D276BE6845A0652E6A/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "7",
+    "name": "HULK",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9CA2629B7FC11ECF1D361F7351841C67E7E8C06D1FE53512E69EEE63A1D63FEB/scale?width=300&aspectRatio=1.00&format=png"
+  },
+  {
+    "id": "8",
+    "name": "VISION",
+    "source": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0F4A4AFBF61E6D4C37F40600DAEC5FC7D6E6F9AD60E42413BF7288A2E1B80E55/scale?width=300&aspectRatio=1.00&format=png"
+  }
+]
